@@ -22,7 +22,7 @@
 	"setting.dvs_enable"		"0"
 	"setting.dvs_gpuframetime_min"		"15000"
 	"setting.dvs_gpuframetime_max"		"16500"
-	"setting.sound_volume"		"0.65"
+	"setting.sound_volume"		"0.60"
 	"setting.last_display_width"		"2560"
 	"setting.last_display_height"		"1600"
 	"setting.nowindowborder"		"0"
